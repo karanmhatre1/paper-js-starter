@@ -19,6 +19,9 @@ Get a random color from the `colors` array. Basic pallete provided, add colors t
 ### downloadImage()
 Downloads a PNG version of the canvas.
 
+###cleanCanvas()
+Clears everything on the canvas.
+
 ## Build and Deploy
 
 Use `npm run build` to create the build. The build file will be generated inside the 'build' folder. Deploy these files to your server.
