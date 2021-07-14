@@ -1,0 +1,21 @@
+body, html {  
+  padding: 0;
+  margin: 0;
+  background-color: #f9f9f9;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#paperCanvas {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  max-height: 600px;
+  background-color: #fff;
+}
