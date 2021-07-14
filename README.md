@@ -19,7 +19,7 @@ Get a random color from the `colors` array. Basic pallete provided, add colors t
 ### downloadImage()
 Downloads a PNG version of the canvas.
 
-###cleanCanvas()
+### cleanCanvas()
 Clears everything on the canvas.
 
 ## Build and Deploy
